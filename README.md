@@ -11,8 +11,9 @@
 <summary><strong>Configuration</strong></summary>
 <p>You can configure this mod directly in-game or edit the JSON file <code>config/blastingraw.json</code> in your profile folder. Please note that any changes will require restarting Minecraft to take effect.</p>
 <center>
-<p style="text-align: center;"><p style="text-align: center;"><b>stairAmount</b> - determines how many stairs you get from crafting</p>
-<p style="text-align: center;"><p style="text-align: center;"><b>blockStairsList</b> - list of blocks and the corresponding stairs you can craft from them</p>
+<p style="text-align: center;"><p style="text-align: center;"><b>cooking_time</b> - How many ticks it takes to smelt a raw block in a Blast Furnace</p>
+<p style="text-align: center;"><p style="text-align: center;"><b>raw_metal_list</b> - List of raw blocks, their corresponding smelted variant and the exp you get from smelting them</p>
+<p style="text-align: center;"><p style="text-align: center;"><b>works_in_furnace</b> - Should recipes for smelting raw blocks in normal furnaces be generated</p>
 <img src="https://i.imgur.com/xa9IJlI.png"/>
 </center>
 </details>
