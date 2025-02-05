@@ -5,7 +5,7 @@
 <a href="https://www.curseforge.com/minecraft/mc-mods/blasting-raw-metal-blocks-into-blocks-fabric-forge" ><img src="https://img.shields.io/curseforge/dt/886474?color=F16436&amp;logo=curseforge&amp;logoColor=white&amp;label=Curseforge&amp;style=for-the-badge" alt="CurseForge" /></a>
 <a href="https://modrinth.com/mod/blasting-raw-metal-blocks-into-blocks" ><img src="https://img.shields.io/modrinth/dt/blasting-raw-metal-blocks-into-blocks?style=for-the-badge&amp;logo=modrinth&amp;logoColor=white&amp;label=modrinth&amp;color=00AF5C" alt="Modrinth" /></a>
 </strong></h5></center>
-<center><p style="text-align: center;"><br />This fully configurable mod allows you to smelt whole blocks of raw metals into blocks of that metal. That makes smelting large quantities of raw ores much faster after you come back from a mining session.</p>
+<center><p style="text-align: center;">This fully configurable mod allows you to smelt whole blocks of raw metals into blocks of that metal. That makes smelting large quantities of raw ores much faster after you come back from a mining session.</p>
 <p style="text-align: center;">&nbsp;<img src="https://i.imgur.com/addJ4gp.png" alt="" height="270" /><img src="https://i.imgur.com/hD6mAuc.png" alt="" height="270" /><img src="https://i.imgur.com/ng4QLHA.png" alt="" height="270" /></p></center>
 <details>
 <summary><strong>Configuration</strong></summary>
