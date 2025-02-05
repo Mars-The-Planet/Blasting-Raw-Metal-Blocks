@@ -1,0 +1,6 @@
+{
+  "blastingraw.deimosconfig.title": "Blasting Raw Metal Blocks",
+  "blastingraw.deimosconfig.cooking_time": "How many ticks it takes to smelt a raw block in a Blast Furnace",
+  "blastingraw.deimosconfig.raw_metal_list": "List of raw blocks, their smelted counterparts, exp you get",
+  "blastingraw.deimosconfig.works_in_furnace": "Should recipes for smelting in normal furnaces be generated"
+}
