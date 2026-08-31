@@ -6,6 +6,7 @@ import com.mars.deimos.config.DeimosConfig;
 import java.util.List;
 
 public class BlastingRawConfig extends DeimosConfig {
+    @Entry public static boolean show_wishful_recipes_message = true;
     @Entry public static int cooking_time = 100;
     @Entry public static List<String> raw_metal_list = Lists.newArrayList(
             "minecraft:raw_copper_block, minecraft:copper_block, 6.3",
